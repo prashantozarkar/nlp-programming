@@ -16,6 +16,9 @@
 .list{
     text-align: left;
 }
+.box1{
+    margin-top: 30px;
+}
 
 .thumb-box{
     display: inline-block; 

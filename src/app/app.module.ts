@@ -13,11 +13,13 @@ import { ContactComponent } from './contact/contact.component';
 import { HomeComponent } from './home/home.component';
 import { RouterModule, Routes } from '@angular/router';
 import { CounsellingComponent } from './counselling/counselling.component';
+import { TestimonialsComponent } from './testimonials/testimonials.component';
 
 const appRoutes: Routes = [
   { path: 'about', component: AboutComponent },
   { path: 'contact', component: ContactComponent },
   { path: 'counselling', component: CounsellingComponent },
+  { path: 'testimonials', component: TestimonialsComponent },
   {
     path: 'home',
     component: HomeComponent
@@ -39,7 +41,8 @@ const appRoutes: Routes = [
     AboutComponent,
     ContactComponent,
     HomeComponent,
-    CounsellingComponent
+    CounsellingComponent,
+    TestimonialsComponent
   ],
   imports: [
     BrowserModule,
