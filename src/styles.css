@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    padding: 15px;
+    font-family: 'Raleway', sans-serif;
+    background-color: #e0e5f2;
+}
+a{
+    color: white;
+}

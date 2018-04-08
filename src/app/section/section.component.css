@@ -1,0 +1,24 @@
+.thumb{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.thumb-caption{
+    text-align: center;
+}
+.box{
+    border: none;
+    background-color: transparent;
+}
+.link{
+    margin-left: 60%
+}
+.list{
+    text-align: left;
+}
+
+.thumb-box{
+    display: inline-block; 
+    text-align: center;
+    width: 100%;
+}
