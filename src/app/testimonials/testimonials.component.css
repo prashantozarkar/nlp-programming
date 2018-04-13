@@ -1,0 +1,20 @@
+.box{
+    text-align: center;
+    padding: 20px;
+}
+.pic{
+    width: 100%;
+    height: 100%;
+}
+.desc{
+    font-size: 16px;
+}
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+    width: 30%;
+}
+.thumbnail {
+	margin-bottom:10px;
+}
