@@ -83,4 +83,14 @@ footer > ul li .text {
 .text a:hover {
     border-color: #FFDD00;
 }
-    
+.social-icons{
+    margin-top: -39px;
+    margin-left: 569px;
+}
+
+@media(max-width:500px){
+    .social-icons{
+        margin-top: -36px;
+        margin-left: 170px;
+    }
+}
